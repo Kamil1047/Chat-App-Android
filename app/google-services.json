@@ -1,1 +1,40 @@
--EDIT THIS-
+{
+  "project_info": {
+    "project_number": "510585515901",
+    "firebase_url": "https://chat-app-android-83c85-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-android-83c85",
+    "storage_bucket": "chat-app-android-83c85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510585515901:android:6a72c310bafc780e486614",
+        "android_client_info": {
+          "package_name": "com.fredrikbogg.android_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510585515901-0b7hmc6akrq4v8r5l9rer0uf7hr0bvpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl8M3N0N_7lX3znDANIGCiNbkKSO09m9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510585515901-0b7hmc6akrq4v8r5l9rer0uf7hr0bvpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
